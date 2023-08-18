@@ -1,0 +1,43 @@
+.inline-block{
+    display: inline-block;
+    vertical-align: top;
+}
+.logo{
+    width: 60%;
+    padding: 1%;
+    text-align: center;
+    display: flex;
+    justify-content: flex-start;
+
+}
+.nav{
+    width: 90%;
+    padding: 1%;
+    display: flex;
+    justify-content: flex-end;
+}
+.ul{
+    width: 50%;
+    margin-left: auto;
+}
+.heroImg{
+    height: 600px;
+    padding: 25%;
+}
+.content{
+    width: 500px;
+    margin: 0 auto;
+}
+.content h1{
+    display: grid;
+    min-height: 100px;
+    height: 10vh;
+    grid-template-rows: 5% 5%;
+}
+.inline-block{
+    padding: 5px;
+}
+
+
+
+
